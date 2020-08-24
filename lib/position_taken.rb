@@ -5,4 +5,3 @@ def position_taken?(board, index)
  elsif array[index_number] == ""
  elsif array[index_number] != " "
 end
-
