@@ -1,6 +1,8 @@
 def position_taken?(board, index)
- array[index_number] == " "
-false
+ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+ index = 0
+ if array[index_number] == " "
+ elsif array[index_number] == ""
+ elsif array[index_number] != " "
 end
-board = []
-index = 0
+
