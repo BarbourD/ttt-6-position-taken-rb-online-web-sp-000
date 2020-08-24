@@ -1,3 +1,2 @@
-def position_take?(board, index)
-
+def position_take?
 end
