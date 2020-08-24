@@ -7,4 +7,3 @@ def position_taken?(board, index)
  else board[index_number] != " "
 end
 end
-
